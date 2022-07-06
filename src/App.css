@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.head{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+
+.para{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  font-size:medium;
+}
+.multi{
+  color:#979797;
+  font-weight: 700 ;
+  font-family: sans-serif ;
+}
+
+
+input[type="radio"]{
+  display: none;
+}
+
+.Kim{
+  color:rgb(85, 24, 253) ;
+  font-weight: 600;
+}
